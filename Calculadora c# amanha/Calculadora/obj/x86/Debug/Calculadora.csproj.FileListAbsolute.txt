@@ -1,0 +1,37 @@
+C:\Users\Aluno\AppData\Local\Temporary Projects\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Aluno\AppData\Local\Temporary Projects\Calculadora\obj\x86\Debug\Calculadora.frmCalc.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\Calculadora\obj\x86\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Aluno\AppData\Local\Temporary Projects\Calculadora\obj\x86\Debug\Calculadora.csproj.GenerateResource.Cache
+C:\Users\Aluno\AppData\Local\Temporary Projects\Calculadora\obj\x86\Debug\Calculadora.exe
+C:\Users\Aluno\AppData\Local\Temporary Projects\Calculadora\obj\x86\Debug\Calculadora.pdb
+C:\Users\Aluno\documents\visual studio 2010\Projects\Calculadora\Calculadora\obj\x86\Debug\Calculadora.exe
+C:\Users\Aluno\documents\visual studio 2010\Projects\Calculadora\Calculadora\obj\x86\Debug\Calculadora.pdb
+C:\Users\Aluno\documents\visual studio 2010\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Aluno\documents\visual studio 2010\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Aluno\documents\visual studio 2010\Projects\Calculadora\Calculadora\obj\x86\Debug\Calculadora.frmCalc.resources
+C:\Users\Aluno\documents\visual studio 2010\Projects\Calculadora\Calculadora\obj\x86\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Aluno\documents\visual studio 2010\Projects\Calculadora\Calculadora\obj\x86\Debug\Calculadora.csproj.GenerateResource.Cache
+G:\Desk e Pen Bao\Desk e Pen Bao\pen do cara gostoso\Calculadora\Calculadora\obj\x86\Debug\Calculadora.exe
+G:\Desk e Pen Bao\Desk e Pen Bao\pen do cara gostoso\Calculadora\Calculadora\obj\x86\Debug\Calculadora.pdb
+G:\Desk e Pen Bao\Desk e Pen Bao\pen do cara gostoso\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+G:\Desk e Pen Bao\Desk e Pen Bao\pen do cara gostoso\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+G:\Desk e Pen Bao\Desk e Pen Bao\pen do cara gostoso\Calculadora\Calculadora\obj\x86\Debug\Calculadora.frmCalc.resources
+G:\Desk e Pen Bao\Desk e Pen Bao\pen do cara gostoso\Calculadora\Calculadora\obj\x86\Debug\Calculadora.Properties.Resources.resources
+G:\Desk e Pen Bao\Desk e Pen Bao\pen do cara gostoso\Calculadora\Calculadora\obj\x86\Debug\Calculadora.csproj.GenerateResource.Cache
+G:\Calculadora c# amanha\Calculadora\obj\x86\Debug\Calculadora.exe
+G:\Calculadora c# amanha\Calculadora\obj\x86\Debug\Calculadora.pdb
+G:\Calculadora c# amanha\Calculadora\bin\Debug\Calculadora.exe
+G:\Calculadora c# amanha\Calculadora\bin\Debug\Calculadora.pdb
+G:\Calculadora c# amanha\Calculadora\obj\x86\Debug\Calculadora.frmCalc.resources
+G:\Calculadora c# amanha\Calculadora\obj\x86\Debug\Calculadora.Properties.Resources.resources
+G:\Calculadora c# amanha\Calculadora\obj\x86\Debug\Calculadora.csproj.GenerateResource.Cache
+H:\Calculadora c# amanha\Calculadora\obj\x86\Debug\Calculadora.exe
+H:\Calculadora c# amanha\Calculadora\obj\x86\Debug\Calculadora.pdb
+H:\Calculadora c# amanha\Calculadora\bin\Debug\Calculadora.exe
+H:\Calculadora c# amanha\Calculadora\bin\Debug\Calculadora.pdb
+H:\Calculadora c# amanha\Calculadora\obj\x86\Debug\Calculadora.frmCalc.resources
+H:\Calculadora c# amanha\Calculadora\obj\x86\Debug\Calculadora.Properties.Resources.resources
+H:\Calculadora c# amanha\Calculadora\obj\x86\Debug\Calculadora.csproj.GenerateResource.Cache
+H:\Calculadora c# amanha\Calculadora\obj\x86\Debug\Calculadora.csprojResolveAssemblyReference.cache
+G:\Calculadora c# amanha\Calculadora\obj\x86\Debug\Calculadora.csprojResolveAssemblyReference.cache
